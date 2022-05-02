@@ -49,3 +49,18 @@
     font-size: 25px;
 }
 
+.edited {
+    display: block;
+    font-size: 35px;
+    text-align: center;
+}
+
+.edited a {
+    text-decoration: none;
+    color: red;
+}
+
+.edited a:hover{
+    text-decoration: underline;
+}
+
